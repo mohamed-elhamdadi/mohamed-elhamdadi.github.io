@@ -3,10 +3,7 @@ import { pdfjs, Document, Page } from 'react-pdf';
 import { Row, Col } from 'react-bootstrap';
 import cv_pdf from './cv.pdf'
 
-pdfjs.GlobalWorkerOptions.workerSrc = new URL(
-    'pdfjs-dist/build/pdf.worker.min.js',
-    import.meta.url
-).toString()
+pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`
 
 function CV(){
     const [numPages, setNumPages] = useState();
