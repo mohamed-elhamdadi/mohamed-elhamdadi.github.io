@@ -43,6 +43,7 @@ function arxiv_search({all, author, title, abstrct, journal_ref}) {
     $.ajax({
         url: baseUrl,
         type: "get",
+        mode: "cors",
         dataType: "xml",
         success: function(xml) {
 	    var entry = [];
