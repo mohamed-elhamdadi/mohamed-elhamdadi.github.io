@@ -1,0 +1,358 @@
+{
+    "current": {
+        "semester": "Summer 2023",
+        "courses": [
+            {
+                "name": "Calculus I",
+                "code": "MAC 2311"
+            }
+        ]
+    },
+    "previous": [
+        {
+            "semester": "Spring 2023",
+            "courses": [
+                {
+                    "name": "Foliations and 3-Manifolds",
+                    "code": "MAT 6932"
+                },
+                {
+                    "name": "Topology II",
+                    "code": "MTG 6317"
+                }
+            ]
+        },
+        {
+            "semester": "Fall 2022",
+            "courses": [
+                {
+                    "name": "Differential Equations",
+                    "code": "MAP 2302"
+                },
+                {
+                    "name": "Topology I",
+                    "code": "MTG 5316"
+                }
+            ]
+        },
+        {
+            "semester": "Summer 2022",
+            "courses": [
+                {
+                    "name": "Life Sciences Calculus I",
+                    "code": "MAC 2241"
+                }
+            ]
+        },
+        {
+            "semester": "Spring 2022",
+            "courses": [
+                {
+                    "name": "Topology II",
+                    "code": "MTG 6317"
+                },
+                {
+                    "name": "Elementary Abstract Algebra II",
+                    "code": "MAS 4302"
+                }
+            ]
+        },
+        {
+            "semester": "Fall 2021",
+            "courses": [
+                {
+                    "name": "Topology I",
+                    "code": "MTG 5316"
+                },
+                {
+                    "name": "Elementary Abstract Algebra",
+                    "code": "MAS 4301"
+                }
+            ]
+        },
+        {
+            "semester": "Summer 2021",
+            "courses": [
+                {
+                    "name": "Life Sciences Calculus I",
+                    "code": "MAC 2241"
+                }
+            ]
+        },
+        {
+            "semester": "Spring 2021",
+            "courses": [
+                {
+                    "name": "Quandle Theory and Applications",
+                    "code": "MAT 6932"
+                },
+                {
+                    "name": "Modern Geometry",
+                    "code": "MTG 4214"
+                }
+            ]
+        },
+        {
+            "semester": "Fall 2020",
+            "courses": [
+                {
+                    "name": "Combinatorial Homology of Knots and Links",
+                    "code": "MAT 6932"
+                },
+                {
+                    "name": "Geometry",
+                    "code": "MTG 3212"
+                }
+            ]
+        },
+        {
+            "semester": "Summer 2020",
+            "courses": [
+                {
+                    "name": "Life Sciences Calculus I",
+                    "code": "MAC 2241"
+                }
+            ]
+        },
+        {
+            "semester": "Spring 2020",
+            "courses": [
+                {
+                    "name": "Topology II",
+                    "code": "MTG 6317"
+                },
+                {
+                    "name": "Introduction to Topology",
+                    "code": "MTG 4302"
+                }
+            ]
+        },
+        {
+            "semester": "Fall 2019",
+            "courses": [
+                {
+                    "name": "Calculus III",
+                    "code": "MAC 2313"
+                },
+                {
+                    "name": "Elementary Number Theory",
+                    "code": "MAS 4214"
+                }
+            ]
+        },
+        {
+            "semester": "Summer 2019",
+            "courses": [
+                {
+                    "name": "Life Sciences Calculus I",
+                    "code": "MAC 2241"
+                }
+            ]
+        },
+        {
+            "semester": "Spring 2019",
+            "courses": [
+                {
+                    "name": "Representation Theory",
+                    "code": "MAT 6932"
+                },
+                {
+                    "name": "Topology II",
+                    "code": "MTG 6317"
+                }
+            ]
+        },
+        {
+            "semester": "Fall 2018",
+            "courses": [
+                {
+                    "name": "Intro to Knot Theory with Applications",
+                    "code": "MAT 4930"
+                },
+                {
+                    "name": "Topology I",
+                    "code": "MTG 5316"
+                }
+            ]
+        },
+        {
+            "semester": "Summer 2018",
+            "courses": [
+                {
+                    "name": "Life Sciences Calculus I",
+                    "code": "MAC 2241"
+                }
+            ]
+        },
+        {
+            "semester": "Spring 2018",
+            "courses": [
+                {
+                    "name": "Introduction to Topology",
+                    "code": "MTG 4302"
+                },
+                {
+                    "name": "Bridge to Abstract Mathematics",
+                    "code": "MGF 3301"
+                }
+            ]
+        },
+        {
+            "semester": "Fall 2017",
+            "courses": [
+                {
+                    "name": "Quantum Groups and Knots",
+                    "code": "MAT 6932"
+                },
+                {
+                    "name": "Linear Algebra",
+                    "code": "MAS 3105"
+                }
+            ]
+        },
+        {
+            "semester": "Summer 2017",
+            "courses": [
+                {
+                    "name": "Calculus II",
+                    "code": "MAC 3212"
+                }
+            ]
+        },
+        {
+            "semester": "Spring 2017",
+            "courses": [
+                {
+                    "name": "Topology II",
+                    "code": "MTG 5317"
+                },
+                {
+                    "name": "Calculus III",
+                    "code": "MAC 2313"
+                }
+            ]
+        },
+        {
+            "semester": "Fall 2016",
+            "courses": [
+                {
+                    "name": "Topology I",
+                    "code": "MTG 5316"
+                },
+                {
+                    "name": "Intro to Quantum Invariants",
+                    "code": 0
+                }
+            ]
+        },
+        {
+            "semester": "Summer 2016",
+            "courses": [
+                {
+                    "name": "Calculus I",
+                    "code": "MAC 3211"
+                }
+            ]
+        },
+        {
+            "semester": "Spring 2016",
+            "courses": [
+                {
+                    "name": "Topology II",
+                    "code": "MTG 5317"
+                },
+                {
+                    "name": "Introduction to Topology",
+                    "code": "MTG 4302"
+                }
+            ]
+        },
+        {
+            "semester": "Fall 2015",
+            "courses": [
+                {
+                    "name": "Bridge to Abstract Mathematics",
+                    "code": "MGF 3301"
+                },
+                {
+                    "name": "Topology I",
+                    "code": "MTG 5316"
+                }
+            ]
+        },
+        {
+            "semester": "Summer 2015",
+            "courses": [
+                {
+                    "name": "Linear Algebra",
+                    "code": "MAS 3105"
+                }
+            ]
+        },
+        {
+            "semester": "Spring 2015",
+            "courses": [
+                {
+                    "name": "Homology Theory of Knots and Links",
+                    "code": "MAT 5932"
+                },
+                {
+                    "name": "Topology II",
+                    "code": "MTG 5317"
+                }
+            ]
+        },
+        {
+            "semester": "Fall 2014",
+            "courses": [
+                {
+                    "name": "Topology I",
+                    "code": "MTG 5316"
+                },
+                {
+                    "name": "Bridge to Abstract Mathematics",
+                    "code": "MGF 3301"
+                }
+            ]
+        },
+        {
+            "semester": "Summer 2014",
+            "courses": [
+                {
+                    "name": "Business Calculus",
+                    "code": "MAC 2233"
+                },
+                {
+                    "name": "Precalculus Algebra/Trigonometry",
+                    "code": "MAC 1147"
+                }
+            ]
+        },
+        {
+            "semester": "Spring 2014",
+            "courses": [
+                {
+                    "name": "Introduction to Topology",
+                    "code": "MTG 4302"
+                },
+                {
+                    "name": "Bridge to Abstract Mathematics",
+                    "code": "MGF 3301"
+                }
+            ]
+        },
+        {
+            "semester": "Fall 2013",
+            "courses": [
+                {
+                    "name": "Linear Algebra",
+                    "code": "MAS 3105"
+                },
+                {
+                    "name": "Bridge to Abstract Mathematics",
+                    "code": "MGF 3301"
+                }
+            ]
+        }
+    ]
+}
