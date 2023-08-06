@@ -43,7 +43,13 @@ function arxiv_search({all, author, title, abstrct, journal_ref}) {
     $.ajax({
         url: baseUrl,
         type: "get",
-        mode: "cors",
+        crossDomain: true,
+        headers: {
+            'Accept': 'application/json'
+        },
+        beforeSend: function(xhr){
+                xhr.withCredentials = true;
+        },
         dataType: "xml",
         success: function(xml) {
 	    var entry = [];
